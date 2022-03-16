@@ -3,8 +3,13 @@ img {
   }
 
 .column {
-    width: 300px;
     float: left;
+    width: 200px;
+    margin: 12px;
+    border: 2px black;
+    padding: 4px;
+    background-color: aqua;
+    box-sizing: border-box;
   }
 .sidebar {
     width: 30%;
