@@ -1,5 +1,6 @@
 img {
-    float: right;
+    height: auto;
+    width: 100%;
   }
 
 .column {
